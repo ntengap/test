@@ -1,0 +1,5 @@
+{
+  "id": "servoControl",
+  "name": "Servo Controller",
+  "extensionURL": "./src/servo-extension.js"
+}
